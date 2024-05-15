@@ -1,6 +1,6 @@
 # Auto-Clicker App
 ## Description
-This Auto-Clicker app provides an easy way to rapidly click without the hassle of dealing with AutoHotKey and providing a simple interface to change settings. Its written in PowerShell and uses WPF for the GUI.
+This Auto-Clicker app provides an easy way to rapidly click without the hassle of dealing with AutoHotKey and providing a simple interface to change settings. By listening to key presses, its able to kick-off auto-clicking and interrupt it while the app isn't in focus, giving better control over when its running. Its written in PowerShell and uses WPF for the GUI.
 
 <p align="center">
   <img src="https://github.com/Dylan-Gross-B/Auto-Clicker-App/assets/169424511/228473c9-604a-4090-a581-de69ce2d79b5" />
