@@ -47,4 +47,3 @@ Cannot validate argument on parameter 'ID'
 Command cannot remove the job because it does not exist...
 ![image](https://github.com/Dylan-Gross-B/Auto-Clicker-App/assets/169424511/192d75a3-3bd9-4c4c-a3b9-8765f5690cf7)
 - This is similarly a non-issue. The click function exited properly and the exit function tried to remove a job that was already removed.
-- 
